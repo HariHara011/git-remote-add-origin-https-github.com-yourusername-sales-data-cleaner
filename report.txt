@@ -1,0 +1,11 @@
+=== SALES REPORT ===
+
+Total Sales: $34500
+Top Earner: Eve ($9100)
+
+Sales by Region:
+  North: $16000
+  South: $13500
+  East: $5000
+
+Best Month: February ($25100)

@@ -1,0 +1,12 @@
+name,sales,region,month
+Alice,5000,North,January
+Bob,,South,January
+Charlie,7800,North,February
+alice,3200,north,February
+David,abc,East,January
+Eve,9100,South,February
+Bob,4400,South,March
+Charlie,7800,North,February
+,5500,West,March
+Frank,-200,East,March
+Hari,5000,East,February
